@@ -48,3 +48,6 @@ Invest in Giftly today and be a part of the future of gifting!
 
 
 
+
+Tech stack chosen so far:
+MERN - MongoDB, Express.js, Ionic React, and Node.js
