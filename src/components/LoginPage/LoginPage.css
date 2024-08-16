@@ -1,0 +1,33 @@
+.loginPage {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: #f9f9f9;
+    padding: 2rem;
+}
+
+.logoContainer {
+    margin-bottom: 4rem;
+}
+
+.logo {
+    width: 55px;
+    height: 117px;
+}
+
+.signInButton {
+    background-color: #A70611;
+    color: white;
+}
+
+.coralLink {
+    color: #F4845F;
+}
+
+.no-underline {
+    text-decoration: none;
+}
+
+/* ... other styles for form elements, buttons, links, etc. */
